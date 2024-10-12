@@ -89,6 +89,10 @@
 	status = "okay";
 };
 
+&gpio0 {
+	status = "okay";
+};
+
 &rtc {
 	clocks = <&clocks RPI_PICO_CLKID_CLK_RTC>;
 	status = "okay";
