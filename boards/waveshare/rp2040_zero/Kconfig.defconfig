@@ -15,4 +15,3 @@ config USB_SELF_POWERED
 	default n
 
 endif # BOARD_RP2040_ZERO
-
